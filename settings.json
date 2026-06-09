@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "9etala_smp.aternos.me",
-    "port": 57052,
+    "ip": "dragon_amp.aternos.me",
+    "port": 32470,
     "version": "",
     "try-creative": false
   },
